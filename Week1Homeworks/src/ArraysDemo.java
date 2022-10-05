@@ -19,7 +19,7 @@ public class ArraysDemo {
 		students[0] = "Engin";
 		students[1] = "Derin";
 		students[2] = "Salih";
-		students[3] = "Ahmet"; 
+		students[3] = "Ahmet "; 
 
 		for (int i = 0; i < students.length; i++) {
 			System.out.println(students[i]);
